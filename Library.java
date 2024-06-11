@@ -1,6 +1,5 @@
 /*
  * Name: Suboohi Sayeed
- * Student ID: 501175964
  */
 import java.time.Year;
 import java.util.ArrayList;

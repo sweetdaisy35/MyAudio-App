@@ -1,5 +1,4 @@
 * Name: Suboohi Sayeed
-* Student ID: 501175964
 
 The program compiles and runs within on the terminal without any errors
 1. File I/O and exception handling works correctly
